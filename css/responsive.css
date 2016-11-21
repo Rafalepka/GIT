@@ -1,0 +1,16 @@
+
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+	
+	p {
+		font-size: 20px;
+        background-color: darkorange;
+	}
+}
+
+@media screen and (max-width: 767px) {
+        p {
+		font-size: 24px;
+        background-color: white;
+	}
+    }
